@@ -1,21 +1,6 @@
 [
   
-  {
-    "id": "custom-togepi-wlk",
-    "set": "swsh45",
-    "name": "Togepi Wlk",
-    "supertype": "Pokémon",
-    "subtypes": ["Basic"],
-    "types": ["Fairy"],
-    "number": "L001",
-    "rarity": "Common",
-    "images": {
-      "small": "/img/base/Togepi_WLK.png",
-      "large": "/img/base/Togepi_WLK.png",
-      "foil": "/img/foils/swsh45/foils/sv093_foil_etched_sunpillar.jpg",
-      "mask": "/img/foils/swsh45/masks/sv093_foil_etched_sunpillar.png"
-    }
-  },  
+ 
   
   {
     "id": "swsh12pt5-160",
