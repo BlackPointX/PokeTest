@@ -18,19 +18,20 @@
   
   {
     "id": "custom-togepi-wlk",
-    "set": "custom",
+    "set": "swsh45",
     "name": "Togepi Wlk",
     "supertype": "Pokémon",
     "subtypes": ["Basic"],
-    "types": ["Fairy"],
+    "types": ["Psychic"],
     "number": "L001",
     "rarity": "Common",
     "images": {
       "small": "/img/base/Togepi_WLK.png",
       "large": "/img/base/Togepi_WLK.png"
     }
-  },  
+  }
   
+
   {
     "id": "sm10-33",
     "set": "sm10",
