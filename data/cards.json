@@ -1,6 +1,19 @@
 [
   
- 
+  {
+    "id": "custom-togepi-wlk",
+    "set": "custom",
+    "name": "Togepi Wlk",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fairy"],
+    "number": "L001",
+    "rarity": "Common",
+    "images": {
+      "small": "/img/base/Togepi_WLK.png",
+      "large": "/img/base/Togepi_WLK.png"
+    }
+  },  
   
   {
     "id": "swsh12pt5-160",
@@ -13,7 +26,7 @@
     "rarity": "Rare Secret",
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
-      "large": "https://images.pokemontcg.io/swsh12pt5/160_hires.png"
+      "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/leaf.png?raw=true"
     }
   },
   {
