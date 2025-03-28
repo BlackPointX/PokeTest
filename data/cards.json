@@ -1,5 +1,6 @@
 [
   
+  
   {
     "id": "swsh12pt5-160",
     "set": "swsh12pt5",
@@ -14,6 +15,22 @@
       "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/leaf.png?raw=true"
     }
   },
+  
+  {
+    "id": "custom-togepi-wlk",
+    "set": "custom",
+    "name": "Togepi Wlk",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fairy"],
+    "number": "L001",
+    "rarity": "Common",
+    "images": {
+      "small": "/img/base/Togepi_WLK.png",
+      "large": "/img/base/Togepi_WLK.png"
+    }
+  },  
+  
   {
     "id": "sm10-33",
     "set": "sm10",
