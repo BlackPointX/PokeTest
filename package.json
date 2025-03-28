@@ -1,0 +1,53 @@
+{
+  "name": "pokemon-deck-builder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.4.0",
+    "pokemontcgsdk": "^2.0.0",
+    "svelte": "^3.52.0",
+    "vite": "^3.2.11"
+  },
+  "description": "This is a repository holder for the Pokemon Cards CSS Holographic effect.",
+  "main": "vite.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "call-bind": "^1.0.2",
+    "debug": "^4.3.4",
+    "deepmerge": "^4.2.2",
+    "esbuild": "^0.15.12",
+    "esbuild-windows-64": "^0.15.12",
+    "follow-redirects": "^1.15.2",
+    "function-bind": "^1.1.1",
+    "get-intrinsic": "^1.2.0",
+    "has": "^1.0.3",
+    "has-symbols": "^1.0.3",
+    "is-core-module": "^2.11.0",
+    "kleur": "^4.1.5",
+    "magic-string": "^0.26.7",
+    "ms": "^2.1.2",
+    "nanoid": "^3.3.4",
+    "object-inspect": "^1.12.3",
+    "path-parse": "^1.0.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.18",
+    "qs": "^6.11.0",
+    "resolve": "^1.22.1",
+    "rollup": "^2.79.1",
+    "side-channel": "^1.0.4",
+    "source-map-js": "^1.0.2",
+    "sourcemap-codec": "^1.4.8",
+    "supports-preserve-symlinks-flag": "^1.0.0",
+    "svelte-hmr": "^0.15.3",
+    "vitefu": "^0.2.5"
+  }
+}
