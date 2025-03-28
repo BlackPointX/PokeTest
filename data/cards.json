@@ -1,14 +1,21 @@
 [
   
   {
-    "id": "custom-card-1",
-    "name": "Togepi",
-    "image": "base/Togepi_WLK.png",
-    "frame": "frames/basic.png",
-    "shine": "effects/holo/holo1.png",
-    "mask": "masks/frame-basic.png",
-    "rarity": "legendary"
-  },
+    "id": "custom-togepi-wlk",
+    "set": "custom",
+    "name": "Togepi Wlk",
+    "supertype": "Pokémon",
+    "subtypes": ["Basic"],
+    "types": ["Fairy"],
+    "number": "L001",
+    "rarity": "Common",
+    "images": {
+      "small": "/img/base/Togepi_WLK.png",
+      "large": "/img/base/Togepi_WLK.png",
+      "foil": "/img/foils/swsh45/foils/sv093_foil_etched_sunpillar.jpg",
+      "mask": "/img/foils/swsh45/masks/sv093_foil_etched_sunpillar.png"
+    }
+  },  
   
   {
     "id": "swsh12pt5-160",
