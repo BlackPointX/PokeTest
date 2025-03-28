@@ -1,4 +1,15 @@
 [
+  
+  {
+    "id": "custom-card-1",
+    "name": "Togepi",
+    "image": "base/Togepi_WLK.png",
+    "frame": "frames/basic.png",
+    "shine": "effects/holo/holo1.png",
+    "mask": "masks/frame-basic.png",
+    "rarity": "legendary"
+  },
+  
   {
     "id": "swsh12pt5-160",
     "set": "swsh12pt5",
