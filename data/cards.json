@@ -17,19 +17,20 @@
   },
   
   {
-    "id": "custom-togepi-wlk",
+    "id": "test-togepi",
     "set": "swsh45",
     "name": "Togepi Wlk",
     "supertype": "Pokémon",
     "subtypes": ["Basic"],
-    "types": ["Psychic"],
-    "number": "L001",
+    "types": ["Fairy"],
+    "number": "999",
     "rarity": "Common",
     "images": {
-      "small": "/img/base/Togepi_WLK.png",
-      "large": "/img/base/Togepi_WLK.png"
+      "small": "https://images.pokemontcg.io/swsh45/1.png",
+      "large": "https://images.pokemontcg.io/swsh45/1_hires.png"
     }
-  }
+  },
+  
   
 
   {
