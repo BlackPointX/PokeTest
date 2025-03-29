@@ -27,11 +27,10 @@
     "rarity": "Common",
     "images": {
       "small": "https://images.pokemontcg.io/swsh45/1.png",
-      "large": "https://images.pokemontcg.io/swsh45/1_hires.png"
+      "large": "/img/base/Togepi_WLK.png"
     }
   },
-  
-  
+   
 
   {
     "id": "sm10-33",
