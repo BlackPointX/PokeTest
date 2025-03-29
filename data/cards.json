@@ -12,7 +12,8 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
       "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/leaf.png?raw=true"
-    }
+    },
+    "showcase": true
   },
   
   {
@@ -64,8 +65,6 @@
     },
     "showcase": true
   },
-
-
 
 
   {
