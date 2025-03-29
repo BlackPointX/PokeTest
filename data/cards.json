@@ -43,7 +43,7 @@
     "rarity": "Common",
     "images": {
       "small": "https://images.pokemontcg.io/sm10/33.png",
-      "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/Wielkanoc_Togepi.png?raw=true"
+      "large": "https://images.pokemontcg.io/sm10/33_hires.png"
     }
   },
   {
@@ -57,7 +57,7 @@
     "rarity": "Common",
     "images": {
       "small": "https://images.pokemontcg.io/sm115/7.png",
-      "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/Template2d.png?raw=true"
+      "large": "https://images.pokemontcg.io/sm115/7_hires.png"
     }
   },
   {
@@ -71,7 +71,7 @@
     "rarity": "Common",
     "images": {
       "small": "https://images.pokemontcg.io/sm35/1.png",
-      "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/Template2dazs.png?raw=true"
+      "large": "https://images.pokemontcg.io/sm35/1_hires.png"
     }
   },
   {
