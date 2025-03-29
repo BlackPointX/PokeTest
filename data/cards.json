@@ -13,7 +13,8 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh12pt5/160.png",
       "large": "https://github.com/BlackPointX/MLMP-BetLiga/blob/main/images/leaf.png?raw=true"
-    }
+    },
+    "showcase": true
   },
   
   {
@@ -28,7 +29,8 @@
     "images": {
       "small": "https://images.pokemontcg.io/swsh45/1.png",
       "large": "/img/base/Togepi_WLK.png"
-    }
+    },
+    "showcase": true
   },
    
 
@@ -104,7 +106,8 @@
       "large": "https://images.pokemontcg.io/swsh12/85_hires.png",
       "foil": "/img/foils/swsh12/foils/085_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh12/masks/085_foil_holo_reverse.png"
-    }
+    },
+    "showcase": true
   },
   {
     "id": "swsh12-116",
@@ -120,7 +123,8 @@
       "large": "https://images.pokemontcg.io/swsh12/116_hires.png",
       "foil": "/img/foils/swsh12/foils/116_foil_holo_reverse.jpg",
       "mask": "/img/foils/swsh12/masks/116_foil_holo_reverse.png"
-    }
+    },
+    "showcase": true
   },
   {
     "id": "pgo-24",
@@ -858,7 +862,8 @@
       "large": "https://images.pokemontcg.io/swsh12/197_hires.png",
       "foil": "/img/foils/swsh12/foils/197_foil_etched_swsecret.jpg",
       "mask": "/img/foils/swsh12/masks/197_foil_etched_swsecret.png"
-    }
+    },
+    "showcase": true
   },
   {
     "id": "swsh10-204",
@@ -920,7 +925,8 @@
       "large": "https://images.pokemontcg.io/swsh12/205_hires.png",
       "foil": "/img/foils/swsh12/foils/205_foil_etched_swsecret.jpg",
       "mask": "/img/foils/swsh12/masks/205_foil_etched_swsecret.png"
-    }
+    },
+    "showcase": true
   },
   {
     "id": "swsh2-209",
