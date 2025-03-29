@@ -48,17 +48,38 @@
   },
 
   {
-    "id": "test-togepi",
+    "id": "pikachu kutasek",
+    "set": "swsh7",
+    "name": "Pika chuj VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "435",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/215.png",
+      "large": "/img/base/Pika_Chuj.png",
+      "foil": "/img/foils/swsh7/foils/215_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/215_foil_etched_swsecret.png"
+    },
+    "showcase": true
+  },
+
+
+
+
+  {
+    "id": "Pika-Chuj",
     "set": "swsh45",
-    "name": "Togepi Wlk",
+    "name": "Pika-Chuj",
     "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
-    "number": "999",
+    "number": "935",
     "rarity": "Common",
     "images": {
       "small": "https://images.pokemontcg.io/swsh45/1.png",
-      "large": "/img/base/Togepi_WLK.png"
+      "large": "/img/base/Pika_Chuj.png"
     },
     "showcase": true
   },
