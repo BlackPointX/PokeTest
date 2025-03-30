@@ -48,24 +48,6 @@
     "showcase": true
   },
 
-  {
-    "id": "pikachu kutasek",
-    "set": "swsh7",
-    "name": "Pika chuj VMAX",
-    "supertype": "Pokémon",
-    "subtypes": ["VMAX", "Single Strike"],
-    "types": ["Darkness"],
-    "number": "435",
-    "rarity": "Rare Rainbow",
-    "images": {
-      "small": "https://images.pokemontcg.io/swsh7/215.png",
-      "large": "/img/base/Pika_Chuj.png",
-      "foil": "/img/foils/swsh7/foils/215_foil_etched_swsecret.jpg",
-      "mask": "/img/foils/swsh7/masks/215_foil_etched_swsecret.png"
-    },
-    "showcase": true
-  },
-
 
   {
     "id": "Pika-Chuj",
@@ -100,8 +82,24 @@
     },
     "showcase": true
   },
+  {
+    "id": "bulbi-vmax",
+    "set": "swsh7",
+    "name": "Bulbi VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "437",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/217.png",
+      "large": "/img/base/bulbi.png",
+      "foil": "/img/foils/swsh7/foils/217_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/217_foil_etched_swsecret.png"
+    },
+    "showcase": true
+  },
   
-
   {
     "id": "sm10-33",
     "set": "sm10",
