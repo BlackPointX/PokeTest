@@ -74,7 +74,7 @@
     "supertype": "Pokémon",
     "subtypes": ["Basic"],
     "types": ["Fairy"],
-    "number": "935",
+    "number": "9385",
     "rarity": "Common",
     "images": {
       "small": "/img/base/Pika_Chuj.png",
