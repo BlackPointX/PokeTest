@@ -84,6 +84,25 @@
   },
 
   {
+    "id": "czarus-vmax",
+    "set": "swsh7",
+    "name": "Czarus VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "436",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/216.png",
+      "large": "/img/base/Czarus.png",
+      "foil": "/img/foils/swsh7/foils/216_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/216_foil_etched_swsecret.png"
+    },
+    "showcase": true
+  }
+  
+
+  {
     "id": "sm10-33",
     "set": "sm10",
     "name": "Squirtle",
