@@ -90,7 +90,7 @@
     "supertype": "Pokémon",
     "subtypes": ["VMAX", "Single Strike"],
     "types": ["Darkness"],
-    "number": "436",
+    "number": "43645",
     "rarity": "Rare Rainbow",
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/216.png",
@@ -99,7 +99,7 @@
       "mask": "/img/foils/swsh7/masks/216_foil_etched_swsecret.png"
     },
     "showcase": true
-  }
+  },
   
 
   {
