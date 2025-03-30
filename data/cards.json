@@ -89,13 +89,30 @@
     "supertype": "Pokémon",
     "subtypes": ["VMAX", "Single Strike"],
     "types": ["Darkness"],
-    "number": "437",
+    "number": "4323417",
     "rarity": "Rare Rainbow",
     "images": {
       "small": "https://images.pokemontcg.io/swsh7/217.png",
       "large": "/img/base/bulbi.png",
       "foil": "/img/foils/swsh7/foils/217_foil_etched_swsecret.jpg",
       "mask": "/img/foils/swsh7/masks/217_foil_etched_swsecret.png"
+    },
+    "showcase": true
+  },
+  {
+    "id": "jessie-vmax",
+    "set": "swsh7",
+    "name": "Jessie VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "434558",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/218.png",
+      "large": "/img/base/Jessie.png",
+      "foil": "/img/foils/swsh7/foils/218_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/218_foil_etched_swsecret.png"
     },
     "showcase": true
   },
