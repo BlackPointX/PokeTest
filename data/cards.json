@@ -133,6 +133,23 @@
     },
     "showcase": true
   },
+  {
+    "id": "pikacz-vmax",
+    "set": "swsh7",
+    "name": "Pikacz VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "440",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/220.png",
+      "large": "/img/base/pikacz.png",
+      "foil": "/img/foils/swsh7/foils/220_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/220_foil_etched_swsecret.png"
+    },
+    "showcase": true
+  },  
   
   {
     "id": "sm10-33",
