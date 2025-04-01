@@ -100,6 +100,23 @@
     "showcase": true
   },
   {
+    "id": "neo-squirtle-vmax",
+    "set": "swsh7",
+    "name": "Neo Squirtle VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "439",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/219.png",
+      "large": "/img/base/Neo_squritle.png",
+      "foil": "/img/foils/swsh7/foils/219_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/219_foil_etched_swsecret.png"
+    },
+    "showcase": true
+  },  
+  {
     "id": "jessie-vmax",
     "set": "swsh7",
     "name": "Jessie VMAX",
