@@ -27,7 +27,8 @@
     "rarity": "Common",
     "images": {
       "small": "https://images.pokemontcg.io/swsh45/1.png",
-      "large": "/img/base/Togepi_WLK.png"
+      "large": "/img/base/Togepi_WLK.png",
+      "mask": "/img/mask/Togepi_WLK.png"
     },
     "showcase": true
   },
