@@ -211,6 +211,7 @@ button.card__rotator {
 .card__front,
 .card__front * {
   backface-visibility: hidden;
+  transform-style: preserve-3d;
 }
 
 .card__front {
