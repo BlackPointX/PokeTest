@@ -150,6 +150,23 @@
       "mask": "/img/foils/swsh7/masks/220_foil_etched_swsecret.png"
     },
     "showcase": true
+  },
+  {
+    "id": "lucario-vmax",
+    "set": "swsh7",
+    "name": "Lucario VMAX",
+    "supertype": "Pokémon",
+    "subtypes": ["VMAX", "Single Strike"],
+    "types": ["Darkness"],
+    "number": "441",
+    "rarity": "Rare Rainbow",
+    "images": {
+      "small": "https://images.pokemontcg.io/swsh7/221.png",
+      "large": "/img/base/Lucario.png",
+      "foil": "/img/foils/swsh7/foils/221_foil_etched_swsecret.jpg",
+      "mask": "/img/foils/swsh7/masks/221_foil_etched_swsecret.png"
+    },
+    "showcase": true
   },  
   
   {
